@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-live-website/static/css/main.5595d3b8.chunk.css",
+    "main.js": "/my-live-website/static/js/main.0afb0519.chunk.js",
+    "main.js.map": "/my-live-website/static/js/main.0afb0519.chunk.js.map",
+    "runtime-main.js": "/my-live-website/static/js/runtime-main.c96cb9c8.js",
+    "runtime-main.js.map": "/my-live-website/static/js/runtime-main.c96cb9c8.js.map",
+    "static/js/2.fb3f7299.chunk.js": "/my-live-website/static/js/2.fb3f7299.chunk.js",
+    "static/js/2.fb3f7299.chunk.js.map": "/my-live-website/static/js/2.fb3f7299.chunk.js.map",
+    "static/js/3.b997fb5a.chunk.js": "/my-live-website/static/js/3.b997fb5a.chunk.js",
+    "static/js/3.b997fb5a.chunk.js.map": "/my-live-website/static/js/3.b997fb5a.chunk.js.map",
+    "index.html": "/my-live-website/index.html",
+    "static/css/main.5595d3b8.chunk.css.map": "/my-live-website/static/css/main.5595d3b8.chunk.css.map",
+    "static/js/2.fb3f7299.chunk.js.LICENSE.txt": "/my-live-website/static/js/2.fb3f7299.chunk.js.LICENSE.txt",
+    "static/media/data.4d530319.svg": "/my-live-website/static/media/data.4d530319.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c96cb9c8.js",
+    "static/js/2.fb3f7299.chunk.js",
+    "static/css/main.5595d3b8.chunk.css",
+    "static/js/main.0afb0519.chunk.js"
+  ]
+}
